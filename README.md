@@ -1,6 +1,6 @@
 # Steam Charts and Garry's Mods Scraper
 
-![Scraper](scraper.png)
+
 
 Welcome to the Steam Charts and Garry's Mods Scraper! This Python script allows you to explore and gather data from two popular gaming websites: [Steam Charts](https://steamcharts.com/) and [Garry's Mods](https://garrysmods.org/).
 
